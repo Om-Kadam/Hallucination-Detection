@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==9.0.2
+httpx==0.28.1
+numpy==2.2.6
+scikit-learn==1.7.1
+pyarrow>=18,<24
